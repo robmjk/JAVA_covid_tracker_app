@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Covid Tracker</string>
+    <string name="crime_title_hint">Enter a title for the covid case</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="date_picker_title">Date of covid case:</string>
+    <string name="new_crime">New Covid Case</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d covid cases</string>
+    <string name="covid_case_text">Choose Case</string>
+    <string name="covid_report_text">Send Covid Report</string>
+    <string name="crime_report">%1$s! The case was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no patient.</string>
+    <string name="crime_report_suspect">the patient is %s.</string>
+    <string name="crime_report_subject">CovidTracker Case Report</string>
+    <string name="send_report">Send covid report via</string>
+</resources>
